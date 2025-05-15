@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
-ghLink = 'https://github.com/jackcasstlesjones/telegram-rag-bot'
+gh_link = 'https://github.com/jackcasstlesjones/telegram-rag-bot'
 
 
 async def code(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
